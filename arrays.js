@@ -1,1 +1,1 @@
-let chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
+let var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
